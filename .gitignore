@@ -1,0 +1,103 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+logs
+*.log
+logs/
+*.pid
+*.seed
+*.pid.lock
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+lib-cov
+coverage
+.nyc_output
+
+# Compiled binary addons (e.g., node-gyp)
+build/Release
+
+# Build output
+dist/
+build/
+out/
+.tmp/
+temp/
+
+# Cache
+.cache/
+.eslintcache
+.stylelintcache
+.parcel-cache/
+.vite/
+.next/
+.nuxt/
+.svelte-kit/
+storybook-static/
+coverage/
+
+# TypeScript
+*.tsbuildinfo
+tsconfig.tsbuildinfo
+
+# VSCode & IDEs
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Optional npm folders
+.npm/
+.npmrc
+
+# Testing
+jest-html-reporters-*
+.cypress/
+playwright-report/
+test-results/
+
+# Misc
+*.tgz
+*.swp
+*.bak
+*.orig
+*.tmp
+
+# Local data
+uploads/
+data/
+files/
+public/uploads/
+storage/
+
+# Temporary files
+*.local
+*.log
+*.cache
+*.env.backup
+.vscode/settings.json
+*.vscode/launch.json
+.idea/workspace.xml
+*.vscode
